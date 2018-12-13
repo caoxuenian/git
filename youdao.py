@@ -1,4 +1,6 @@
-'''爬有道翻译20121205'''
+'''爬有道翻译20121205
+第一个爬虫
+'''
 import urllib.request
 import urllib.parse
 import json
