@@ -1,3 +1,4 @@
+'''爬有道翻译20121205'''
 import urllib.request
 import urllib.parse
 import json
